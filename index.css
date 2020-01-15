@@ -1,0 +1,28 @@
+body {
+  background-color: #eeeeee;
+}
+
+.top-wrapper {
+  background-color: white;
+}
+
+.title-wrapper {
+  width: 50%;
+  margin: auto;
+  height: 120px;
+  text-align: initial;
+  padding-top: 15px;
+}
+.posts {
+  background-color: lightcoral;
+}
+.post {
+  background-color: lightseagreen;
+  width: 50%;
+  margin: auto;
+  height: 130px;
+}
+.box1 {
+  background-color: maroon;
+  width: 12px;
+}
