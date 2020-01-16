@@ -2,6 +2,16 @@ body {
   background-color: #eeeeee;
 }
 
+.container {
+  background-color: graY;
+  text-align: center;
+}
+
+/**/
+.header {
+  margin-top: 100px;
+  text-align: center;
+}
 .top-wrapper {
   background-color: white;
 }
@@ -10,19 +20,44 @@ body {
   width: 50%;
   margin: auto;
   height: 120px;
-  text-align: initial;
+  text-align: center;
   padding-top: 15px;
 }
-.posts {
-  background-color: lightcoral;
+.header {
+  background-color: gray;
 }
 .post {
-  background-color: lightseagreen;
+  background-color: ;
   width: 50%;
   margin: auto;
-  height: 130px;
 }
-.box1 {
-  background-color: maroon;
-  width: 12px;
+.img1 {
+  text-align: center;
+  background-color: whitesmoke;
+}
+.img1 img {
+  margin-top: 50px;
+}
+h3 {
+  float: left;
+
+  margin-left: 80px;
+}
+span {
+  float: right;
+  margin-left: 282px;
+}
+span2 {
+  float: right;
+  margin-left: 282px;
+}
+
+span3 {
+  float: right;
+  margin-left: 282px;
+}
+
+span4 {
+  float: right;
+  margin-left: 282px;
 }
