@@ -5,7 +5,7 @@ body {
   background-color: white;
 }
 .title-wrapper {
-  width: 50%;
+  width: 30%;
   margin: auto;
   height: 120px;
   padding-top: 15px;
@@ -15,7 +15,7 @@ body {
   text-align: center;
 }
 .post {
-  width: 50%;
+  width: 30%;
   margin: auto;
 }
 .box1 {
